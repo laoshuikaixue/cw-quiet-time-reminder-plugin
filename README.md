@@ -1,5 +1,7 @@
 # cw-quiet-time-reminder-plugin
 
+![wechat_2025-01-14_144805_119](https://github.com/user-attachments/assets/62b1c8d2-8b3f-46ad-93cc-8257a2c8ce90)
+
 ## 简介
 一个在静班时间发送通知以进行提醒的插件。
 
