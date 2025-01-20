@@ -26,7 +26,7 @@ class Plugin(PluginBase):  # 定义插件类
             self.method.send_notification(
                 state=4,  # 自定义通知
                 title='静班提醒',
-                content='静班时间到！',
+                content=f'静班时间到！当前时间：{current_time}',
                 duration=10000  # 通知持续时间（毫秒）
             )
             self.notified_times.add(current_time)

@@ -7,6 +7,7 @@
 
 ## 使用方法
 安装插件后 打开插件目录 修改main.py中的时刻 保存后重启即可（插件更新后需重新修改）
+
 你也可以修改`send_notification`方法中的`duration`来修改通知的显示持续时间 默认为10秒
 
 Powered By LaoShui @ 2025
