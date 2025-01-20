@@ -1,7 +1,7 @@
 {
     "name": "静班提醒",
     "description": "一个在静班时间发送通知以进行提醒的插件。",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "plugin_ver": 1,
     "author": "LaoShui",
     "settings": false,
